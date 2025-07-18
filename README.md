@@ -31,6 +31,10 @@ To build a robust classifier that predicts whether an uploaded **500 INR note im
      Dataset Link: [https://www.kaggle.com/datasets/iayushanand/currency-dataset500-inr-note-real-fake ](url)
 
  9. Use case:
+      *Fake Currency Detection System (Real-World Application)
+      *Can be used by banks, reatil shop,ATMs,Mobile app for individual
+      *Dataset for Kaggle Competitions / Research Papers
+      *Educational Projects / Portfolios
 ## 🏗️ Model Architecture
 
 - **Base Model:** ResNet18 (pretrained on ImageNet)
